@@ -1,5 +1,16 @@
 # Digital-assistant-for-legal-awareness
 this is a digital assistant for legal awareness
+
+#TECHNOLOGIES USED
+HTML,
+CSS,
+EJS,
+NODEJS,
+EXPRESS.js,
+MONGO DB.
+
+#STEPS
+
 Step 1:- copy the github repo url
 
 Step 2:- open terminal 
