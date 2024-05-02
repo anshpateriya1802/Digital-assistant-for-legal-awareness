@@ -3,7 +3,7 @@
 const OpenAI = require("openai")
 
 const openai = new OpenAI({
-    apiKey:"your-api"
+    apiKey:"your api key"
 });
 
 async function  handleRequestedPrompt(req,res){
